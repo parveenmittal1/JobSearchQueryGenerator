@@ -26,6 +26,7 @@ The Job Search Query Generator is a Python script that automates the creation of
    ```bash
    git clone https://github.com/your_username/JobSearchQueryGenerator.git
    cd JobSearchQueryGenerator
+      ```
    ```
 
 2. Install the required libraries:
@@ -48,5 +49,3 @@ Contributions are welcome! Please create issues and submit pull requests.
 
 This project is licensed under the MIT License.
 ```
-
-Make sure to replace `your_username` with your actual GitHub username. You can also add or modify any sections as needed for your project!
