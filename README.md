@@ -37,7 +37,7 @@ The Job Search Query Generator is a Python script that automates the creation of
 
 Run the script from the command line, specifying optional parameters like `--location` and `--output` file name:
 ```bash
-python job_search_query_generator.py --location "Remote" --output "my_queries.txt"
+python main.py --location "Remote" --output "my_queries.txt"
 ```
 
 ## Contributing
