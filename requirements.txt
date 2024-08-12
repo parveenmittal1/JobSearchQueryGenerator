@@ -1,0 +1,5 @@
+pyspark==3.3.0          # Adjust version as necessary for compatibility.
+transformers==4.24.0    # Ensure compatibility with your specific implementation.
+spacy==3.4.4            # Ensure you have a compatible version.
+torch                   # For PyTorch, needed by Transformers (it's a dependency).
+numpy                   # As it is used in your code.
